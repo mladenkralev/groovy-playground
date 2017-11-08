@@ -1,11 +1,9 @@
-import groovy.transform.Immutable
+import books.Book
+import books.GroovyBook
 
 /**
  * Created by MLKR on 01/11/2017.
  */
-@Immutable class GroovyBook extends Book {
-    String title = "groovy"
-}
 
 def normalBook = new Book(
         title: "Groovy",
