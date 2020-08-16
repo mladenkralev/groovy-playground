@@ -1,1 +1,2 @@
-# groovy-playground is used to play around with basic groovy concepts
+# groovy-playground 
+Used to play around with basic groovy concepts
